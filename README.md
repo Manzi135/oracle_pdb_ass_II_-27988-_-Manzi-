@@ -1,16 +1,5 @@
-# 1. Overview of Tasks
-
-This assignment focused on creating and managing Oracle Pluggable Databases (PDBs) in a multitenant Oracle environment. The tasks included:
-
-Creating a new PDB using the required naming convention
-
-Creating a user inside the new PDB for future coursework
-
-Creating and deleting a temporary PDB completely
-
-Configuring and accessing Oracle Enterprise Manager (OEM)
-
-Preparing documentation and publishing the work on GitHub with evidence screenshots
+# 1. The Overview of Tasks
+The second assignment covered the creation, management, and deletion of Oracle Pluggable Databases (PDBs) as part of hands-on exercises in Oracle Database administration. The tasks that were completed include: Familiarizing with the database structure by doing several researches. Creating and deleting the PDB and user. The management of PDB. Usage of Oracle Enterprise Manager (OEM).
 
 # 2. Oracle Environment Used
 
@@ -99,6 +88,8 @@ Problem: The PDB remained in the list after deletion because files were not remo
 
 # 5. Integrity Statement
 
-I confirm that this work was completed by me and reflects my own effort.
+I Manzi Eric confirm that this work was completed by me and reflects my own effort.
 All commands, screenshots, and documentation were produced by me as part of this assignment.
 No part of this work was copied from another student or unauthorized source.
+Name: Manzi Eric 
+Student ID:27988
